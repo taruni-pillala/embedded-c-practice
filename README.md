@@ -1,20 +1,17 @@
 # embedded-c-practice
-# C Pointer Programs
+# Pointer Programs in C
 
 This repository contains 5 basic C programs on pointers.
 
 ## Programs
-1. Print value using pointer
-2. Change value using pointer
+1. Print value and address using pointer
+2. Add two numbers using pointers
 3. Swap two numbers using pointers
-4. Sum of array using pointer
-5. Print string using pointer
+4. Traverse array using pointer
+5. Find largest element using pointer
 
 ## Language
 C
-
-## Topic
-Pointers in C
 
 ## Author
 Taruni P
