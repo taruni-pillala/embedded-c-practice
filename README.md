@@ -1,17 +1,29 @@
-# embedded-c-practice
-# Pointer Programs in C
+# Embedded C Practice
 
-This repository contains 5 basic C programs on pointers.
+Foundational Embedded C programs written during my semester break — 
+building toward STM32 bare-metal embedded systems development.
 
-## Programs
-1. Print value and address using pointer
-2. Add two numbers using pointers
-3. Swap two numbers using pointers
-4. Traverse array using pointer
-5. Find largest element using pointer
+## Topics Covered
+- Pointer basics and dereferencing
+- Pointer arithmetic and address manipulation
+- Bit manipulation — SET, CLEAR, TOGGLE, CHECK operations
+- volatile, const, static keywords in embedded context
+- Memory layout — stack, heap, BSS, data segments
+- Structs, unions, and bitfields for hardware register modelling
 
-## Language
-C
+## Why this matters in Embedded Systems
+In embedded firmware, these aren't just C concepts — they're daily tools:
+- Bit manipulation is how you control hardware registers
+- volatile tells the compiler a register can change anytime
+- Structs/bitfields are how hardware registers are modelled in code
+- Memory layout knowledge is critical when RAM is only 20KB
 
-## Author
-Taruni P
+## Language & Tools
+- Language: C
+- Editor: VS Code
+- OS: Windows
+
+## About Me
+2nd year ECE student at Sathyabama Institute of Science & Technology,
+Chennai — building skills in embedded systems and bare-metal 
+STM32 programming toward a career in embedded/semiconductor engineering.
