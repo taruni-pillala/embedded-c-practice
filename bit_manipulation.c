@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    unsigned int reg = 00x0;
+    unsigned int reg = 0x00;
     // set bit 3
     reg |= (1 << 3);
     printf("After SET bit 3: 0x%2X\n", reg);
