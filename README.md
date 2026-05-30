@@ -4,9 +4,8 @@ Foundational Embedded C programs written during my semester break —
 building toward STM32 bare-metal embedded systems development.
 
 ## Topics Covered
-- Pointer basics and dereferencing
-- Pointer arithmetic and address manipulation
-- Bit manipulation — SET, CLEAR, TOGGLE, CHECK operations
+- Pointers and dereferencing
+- Bit manipulation — SET, CLEAR, TOGGLE, CHECK
 - volatile, const, static keywords in embedded context
 - Memory layout — stack, heap, BSS, data segments
 - Structs, unions, and bitfields for hardware register modelling
